@@ -1,1 +1,1 @@
-# Java-glz
+Dummy template
